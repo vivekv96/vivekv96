@@ -14,12 +14,7 @@
 
 </br>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="vivekv96's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vivekv96&show_icons=true&hide_border=true&count_private=true&theme=highcontrast" />
-
-</details>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vivekv96&show_icons=true&include_all_commits=true&theme=highcontrast&count_private=true)
 
 [facebook]: https://www.facebook.com/vivekv1996
 [twitter]: https://twitter.com/vivekv96
