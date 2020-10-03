@@ -1,7 +1,5 @@
 ### <img src="https://media.giphy.com/media/l15xvlS8trI0vLQIWb/giphy.gif" alt="Hi.gif" width="20px"> Hi there, I'm Vivek V.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/vivekv96?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fvivekv96&screen_name=vivekv96)
-
 - 💻 I'm trying to contribute to more Open Source projects
 - ⚡ Fun fact: I love to play Chess (used to be good at it :P)
 
