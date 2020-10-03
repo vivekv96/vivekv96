@@ -15,6 +15,7 @@
 <br />
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vivekv96&show_icons=true&include_all_commits=true&theme=highcontrast&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekv96&layout=compact&theme=highcontrast)
 
 [facebook]: https://www.facebook.com/vivekv1996
 [twitter]: https://twitter.com/vivekv96
