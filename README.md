@@ -10,7 +10,7 @@
 [<img align="left" alt="vivekv96 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="vivekv96 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+---
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vivekv96&show_icons=true&include_all_commits=true&theme=highcontrast&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekv96&layout=compact&theme=highcontrast)
