@@ -16,6 +16,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekv96&layout=compact&theme=highcontrast)
 
+##### Check out my gists here: https://gist.github.com/vivekv96
+
 [facebook]: https://www.facebook.com/vivekv1996
 [twitter]: https://twitter.com/vivekv96
 [instagram]: https://instagram.com/iamvivekv1996
