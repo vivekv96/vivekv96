@@ -20,5 +20,5 @@
 
 [facebook]: https://www.facebook.com/vivekv1996
 [twitter]: https://twitter.com/vivekv96
-[instagram]: https://instagram.com/iamvivekv1996
+[instagram]: https://www.instagram.com/vivekv.96/
 [linkedin]: https://linkedin.com/in/vivekv96
